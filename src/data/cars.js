@@ -15,7 +15,7 @@ const cars = [
         category: "SUV",
         price: 1200000,
         fuel: "Petrol",
-        mileage: "17 km/1",
+        mileage: "17 km/l",
         transmission: "Automatic",
         year: 2025,
         image: HyundaiCreta
@@ -27,7 +27,7 @@ const cars = [
         category: "SUV",
         price: 900000,
         fuel: "Diesel",
-        mileage: "23 km/1",
+        mileage: "23 km/l",
         transmission: "Manual",
         year: 2025,
         image: TataNexon
@@ -40,7 +40,7 @@ const cars = [
         category: "Sedan",
         price: 1300000,
         fuel: "Petrol",
-        mileage: "18 km/1",
+        mileage: "18 km/l",
         transmission: "Automatic",
         year: 2025,
         image: HondaCity
@@ -53,7 +53,7 @@ const cars = [
         category: "Hatchback",
         price: 650000,
         fuel: "Petrol",
-        mileage: "22 km/1",
+        mileage: "22 km/l",
         transmission: "Manual",
         year: 2025,
         image: MaruthiSwift
@@ -65,7 +65,7 @@ const cars = [
         category: "SUV",
         price: 1100000,
         fuel: "Diesel",
-        mileage: "20 km/1",
+        mileage: "20 km/l",
         transmission: "Automatic",
         year: 2025,
         image: KiaSeltos
@@ -77,7 +77,7 @@ const cars = [
         category: "Sedan",
         price: 4500000,
         fuel: "Hybrid",
-        mileage: "25 km/1",
+        mileage: "25 km/l",
         transmission: "Automatic",
         year: 2025,
         image: ToyotaCamry
@@ -89,7 +89,7 @@ const cars = [
         category: "SUV",
         price: 750000,
         fuel: "Petrol",
-        mileage: "22 km/1",
+        mileage: "22 km/l",
         transmission: "Manual",
         year: 2025,
         image: MaruthiBeleno
@@ -101,7 +101,7 @@ const cars = [
         category: "SUV",
         price: 1800000,
         fuel: "Diesel",
-        mileage: "16 km/1",
+        mileage: "16 km/l",
         transmission: "Automatic",
         year: 2025,
         image: MahindraXUV
